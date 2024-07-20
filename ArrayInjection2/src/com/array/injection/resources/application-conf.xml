@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean class="com.array.injection.beans.Company" id="company">
+        <property name="companyName" value="Amazon"/>
+        <property name="employees">
+            <array>
+                <bean class="com.array.injection.beans.Employee">
+                    <property name="employeeName" value="Ajay"/>
+                    <property name="employeeId" value="101"/>
+                </bean>
+
+                <bean class="com.array.injection.beans.Employee">
+                    <property name="employeeName" value="Chetan"/>
+                    <property name="employeeId" value="102"/>
+                </bean>
+
+                <bean class="com.array.injection.beans.Employee">
+                    <property name="employeeName" value="Deepak"/>
+                    <property name="employeeId" value="103"/>
+                </bean>
+
+                <bean class="com.array.injection.beans.Employee">
+                    <property name="employeeName" value="Sourav"/>
+                    <property name="employeeId" value="104"/>
+                </bean>
+
+                <bean class="com.array.injection.beans.Employee">
+                    <property name="employeeName" value="Codey"/>
+                    <property name="employeeId" value="105"/>
+                </bean>
+
+                <bean class="com.array.injection.beans.Employee">
+                    <property name="employeeName" value="Kumar"/>
+                    <property name="employeeId" value="106"/>
+                </bean>
+
+                <bean class="com.array.injection.beans.Employee">
+                    <property name="employeeName" value="Sourav Kumar"/>
+                    <property name="employeeId" value="107"/>
+                </bean>
+            </array>
+        </property>
+    </bean>
+
+</beans>

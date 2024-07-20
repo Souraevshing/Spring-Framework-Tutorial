@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayInjection1/ArrayInjection1.iml" filepath="$PROJECT_DIR$/ArrayInjection1/ArrayInjection1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayInjection2/ArrayInjection2.iml" filepath="$PROJECT_DIR$/ArrayInjection2/ArrayInjection2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayInjection3/ArrayInjection3.iml" filepath="$PROJECT_DIR$/ArrayInjection3/ArrayInjection3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayInjection4/ArrayInjection4.iml" filepath="$PROJECT_DIR$/ArrayInjection4/ArrayInjection4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayInjection5/ArrayInjection5.iml" filepath="$PROJECT_DIR$/ArrayInjection5/ArrayInjection5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CircularDependency/CircularDependency.iml" filepath="$PROJECT_DIR$/CircularDependency/CircularDependency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstructorInjection1/ConstructorInjection1.iml" filepath="$PROJECT_DIR$/ConstructorInjection1/ConstructorInjection1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstructorInjection2/ConstructorInjection2.iml" filepath="$PROJECT_DIR$/ConstructorInjection2/ConstructorInjection2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstructorInjection3/ConstructorInjection3.iml" filepath="$PROJECT_DIR$/ConstructorInjection3/ConstructorInjection3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstructorInjection4/ConstructorInjection4.iml" filepath="$PROJECT_DIR$/ConstructorInjection4/ConstructorInjection4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstructorInjection5/ConstructorInjection5.iml" filepath="$PROJECT_DIR$/ConstructorInjection5/ConstructorInjection5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstructorInjection6/ConstructorInjection6.iml" filepath="$PROJECT_DIR$/ConstructorInjection6/ConstructorInjection6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstructorInjection7/ConstructorInjection7.iml" filepath="$PROJECT_DIR$/ConstructorInjection7/ConstructorInjection7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DependencyInjection_1/DependencyInjection_1.iml" filepath="$PROJECT_DIR$/DependencyInjection_1/DependencyInjection_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DependencyInjection_2/DependencyInjection_2.iml" filepath="$PROJECT_DIR$/DependencyInjection_2/DependencyInjection_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DependencyInjection_3/DependencyInjection_3.iml" filepath="$PROJECT_DIR$/DependencyInjection_3/DependencyInjection_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DependencyInjection_4/DependencyInjection_4.iml" filepath="$PROJECT_DIR$/DependencyInjection_4/DependencyInjection_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DependencyInjection_5/DependencyInjection_5.iml" filepath="$PROJECT_DIR$/DependencyInjection_5/DependencyInjection_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DependencyInjection_6/DependencyInjection_6.iml" filepath="$PROJECT_DIR$/DependencyInjection_6/DependencyInjection_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListInjection1/ListInjection1.iml" filepath="$PROJECT_DIR$/ListInjection1/ListInjection1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListInjection2/ListInjection2.iml" filepath="$PROJECT_DIR$/ListInjection2/ListInjection2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListInjection3/ListInjection3.iml" filepath="$PROJECT_DIR$/ListInjection3/ListInjection3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MapInjection/MapInjection.iml" filepath="$PROJECT_DIR$/MapInjection/MapInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SCA-Spring-Demo.iml" filepath="$PROJECT_DIR$/.idea/SCA-Spring-Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SetInjection1/SetInjection1.iml" filepath="$PROJECT_DIR$/SetInjection1/SetInjection1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SetInjection2/SetInjection2.iml" filepath="$PROJECT_DIR$/SetInjection2/SetInjection2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SetInjection3/SetInjection3.iml" filepath="$PROJECT_DIR$/SetInjection3/SetInjection3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringExample1/SpringExample1.iml" filepath="$PROJECT_DIR$/SpringExample1/SpringExample1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringExample2/SpringExample2.iml" filepath="$PROJECT_DIR$/SpringExample2/SpringExample2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringExample3/SpringExample3.iml" filepath="$PROJECT_DIR$/SpringExample3/SpringExample3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringExample4/SpringExample4.iml" filepath="$PROJECT_DIR$/SpringExample4/SpringExample4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringExample5/SpringExample5.iml" filepath="$PROJECT_DIR$/SpringExample5/SpringExample5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringExample6/SpringExample6.iml" filepath="$PROJECT_DIR$/SpringExample6/SpringExample6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringExample7/SpringExample7.iml" filepath="$PROJECT_DIR$/SpringExample7/SpringExample7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringExample8/SpringExample8.iml" filepath="$PROJECT_DIR$/SpringExample8/SpringExample8.iml" />
+    </modules>
+  </component>
+</project>

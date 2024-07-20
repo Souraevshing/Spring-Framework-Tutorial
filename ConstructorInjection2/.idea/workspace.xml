@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c8c8ae7-0fcd-40c1-8fdd-94bee1d26264" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayInjection1/ArrayInjection1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayInjection1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayInjection1/src/com/array/injection/app/UseStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayInjection1/src/com/array/injection/beans/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayInjection1/src/com/array/injection/resources/application-conf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayInjection2/ArrayInjection2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayInjection2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayInjection2/src/com/array/injection/beans/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayInjection2/src/com/array/injection/beans/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayInjection2/src/com/array/injection/resources/application-conf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayInjection3/ArrayInjection3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayInjection3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayInjection3/src/com/array/injection/beans/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayInjection3/src/com/array/injection/beans/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayInjection3/src/com/array/injection/resources/application-conf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayInjection4/ArrayInjection4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayInjection4/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayInjection4/src/com/array/injection/beans/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayInjection4/src/com/array/injection/resources/application-conf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayInjection5/ArrayInjection5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayInjection5/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayInjection5/src/com/array/injection/beans/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayInjection5/src/com/array/injection/beans/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayInjection5/src/com/array/injection/resources/application-conf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample5/src/com/spring/demo/beans/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample5/src/com/spring/demo/beans/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample5/src/com/spring/demo/resources/application-conf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample6/src/com/spring/demo/beans/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample6/src/com/spring/demo/beans/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample6/src/com/spring/demo/resources/application-conf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample7/SpringExample7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample7/src/com/spring/demo/app/UseProgrammer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample7/src/com/spring/demo/beans/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample7/src/com/spring/demo/beans/Desktop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample7/src/com/spring/demo/beans/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample7/src/com/spring/demo/beans/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample7/src/com/spring/demo/resources/application-conf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample8/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample8/SpringExample8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample8/src/com/spring/demo/beans/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample8/src/com/spring/demo/beans/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringExample8/src/com/spring/demo/resources/application-conf.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringExample5/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringExample5/src/com/spring/demo/app/UseProgrammer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringExample6/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringExample6/src/com/spring/demo/app/UseProgrammer.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2jTQt1KvUlxSQG7kYqZL6cTF7c2" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c8c8ae7-0fcd-40c1-8fdd-94bee1d26264" name="Changes" comment="" />
+      <created>1721408797739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721408797739</updated>
+    </task>
+    <servers />
+  </component>
+</project>

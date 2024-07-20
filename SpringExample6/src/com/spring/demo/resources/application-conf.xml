@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean class="com.spring.demo.beans.Laptop" name="lpObj1">
+        <property name="brand" value="Dell"/>
+    </bean>
+
+    <bean class="com.spring.demo.beans.Programmer" id="prObj1">
+        <property name="name" value="Sachin"/>
+        <property name="laptop" ref="lpObj1"/>
+    </bean>
+
+</beans>
+
+<!--here, we are creating 2 bean namely, Laptop and Programmer class.-->
+<!--<beans></beans> tag allows to use either name or id at a time.-->
+<!--Two beans can neither have same value for id nor same value for name.-->
+<!--If we do so BeanDefinitionParsingException will be thrown.-->
+<!--Question ?-->
+
+<!--Can we have a bean without id or name ?-->
+
+<!--Answer ?-->
+
+<!--Yes , we can have a bean object without id or name.-->
+
+<!--If we do not supply a name or id explicitly, the container generates a unique name for that bean.-->
+
+<!--This is generally done for inner beans.-->
+
+
+

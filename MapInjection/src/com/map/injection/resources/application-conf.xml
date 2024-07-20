@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean class="com.map.injection.beans.Student" id="student">
+        <property name="rollno" value="101"/>
+        <property name="name" value="Amit"/>
+        <property name="performance">
+            <map>
+                <entry key="Phy" value="50"/>
+                <entry key="Chem" value="60"/>
+                <entry key="Math" value="70"/>
+            </map>
+        </property>
+
+    </bean>
+
+</beans>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean class="com.array.injection.beans.Student" id="student">
+        <property name="rollno" value="101"/>
+        <property name="name" value="Amit"/>
+        <property name="subjects">
+            <list>
+                <value>Physics</value>
+                <value>Chemistry</value>
+                <value>Math</value>
+            </list>
+        </property>
+        <property name="marks">
+            <list>
+                <value>50</value>
+                <value>60</value>
+                <value>70</value>
+            </list>
+        </property>
+    </bean>
+
+</beans>
