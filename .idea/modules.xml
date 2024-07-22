@@ -9,12 +9,16 @@
       <module fileurl="file://$PROJECT_DIR$/ArrayInjection5/ArrayInjection5.iml" filepath="$PROJECT_DIR$/ArrayInjection5/ArrayInjection5.iml" />
       <module fileurl="file://$PROJECT_DIR$/CircularDependency/CircularDependency.iml" filepath="$PROJECT_DIR$/CircularDependency/CircularDependency.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConstructorInjection1/ConstructorInjection1.iml" filepath="$PROJECT_DIR$/ConstructorInjection1/ConstructorInjection1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstructorInjection10/ConstructorInjection10.iml" filepath="$PROJECT_DIR$/ConstructorInjection10/ConstructorInjection10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstructorInjection11/ConstructorInjection11.iml" filepath="$PROJECT_DIR$/ConstructorInjection11/ConstructorInjection11.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConstructorInjection2/ConstructorInjection2.iml" filepath="$PROJECT_DIR$/ConstructorInjection2/ConstructorInjection2.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConstructorInjection3/ConstructorInjection3.iml" filepath="$PROJECT_DIR$/ConstructorInjection3/ConstructorInjection3.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConstructorInjection4/ConstructorInjection4.iml" filepath="$PROJECT_DIR$/ConstructorInjection4/ConstructorInjection4.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConstructorInjection5/ConstructorInjection5.iml" filepath="$PROJECT_DIR$/ConstructorInjection5/ConstructorInjection5.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConstructorInjection6/ConstructorInjection6.iml" filepath="$PROJECT_DIR$/ConstructorInjection6/ConstructorInjection6.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConstructorInjection7/ConstructorInjection7.iml" filepath="$PROJECT_DIR$/ConstructorInjection7/ConstructorInjection7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstructorInjection8/ConstructorInjection8.iml" filepath="$PROJECT_DIR$/ConstructorInjection8/ConstructorInjection8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstructorInjection9/ConstructorInjection9.iml" filepath="$PROJECT_DIR$/ConstructorInjection9/ConstructorInjection9.iml" />
       <module fileurl="file://$PROJECT_DIR$/DependencyInjection_1/DependencyInjection_1.iml" filepath="$PROJECT_DIR$/DependencyInjection_1/DependencyInjection_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/DependencyInjection_2/DependencyInjection_2.iml" filepath="$PROJECT_DIR$/DependencyInjection_2/DependencyInjection_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/DependencyInjection_3/DependencyInjection_3.iml" filepath="$PROJECT_DIR$/DependencyInjection_3/DependencyInjection_3.iml" />

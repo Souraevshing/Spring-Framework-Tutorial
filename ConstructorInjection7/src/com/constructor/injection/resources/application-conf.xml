@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean class="com.constructor.injection.beans.Employee" id="employee">
+        <constructor-arg  type="float" index="0" value="10000" />
+        <constructor-arg  type="String"  value="Sumit" />
+    </bean>
+
+</beans>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean class="com.constructor.injection.beans.Student" id="student">
+        <constructor-arg type="int" value="101" />
+        <constructor-arg type="String" value="Amit" />
+    </bean>
+
+</beans>

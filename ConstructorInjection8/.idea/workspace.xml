@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0d776ac-7471-47bd-b789-92a8de10d2f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ConstructorInjection1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorInjection1/src/com/constructor/injection/beans/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorInjection1/src/com/constructor/injection/resources/application-conf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorInjection2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorInjection2/src/com/constructor/injection/app/UseStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorInjection2/src/com/constructor/injection/beans/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorInjection2/src/com/constructor/injection/resources/application-conf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorInjection3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorInjection3/src/com/constructor/injection/app/UseStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorInjection3/src/com/constructor/injection/beans/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorInjection3/src/com/constructor/injection/resources/application-conf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorInjection4/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorInjection4/src/com/constructor/injection/app/UseStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorInjection4/src/com/constructor/injection/beans/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorInjection4/src/com/constructor/injection/resources/application-conf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorInjection5/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorInjection5/src/com/constructor/injection/app/UseStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorInjection5/src/com/constructor/injection/beans/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorInjection5/src/com/constructor/injection/resources/application-conf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorInjection6/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorInjection6/src/com/constructor/injection/app/UseEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorInjection6/src/com/constructor/injection/beans/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorInjection6/src/com/constructor/injection/resources/application-conf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorInjection7/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorInjection7/src/com/constructor/injection/app/UseEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorInjection7/src/com/constructor/injection/beans/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorInjection7/src/com/constructor/injection/resources/application-conf.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstructorInjection1/ConstructorInjection1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstructorInjection1/ConstructorInjection1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstructorInjection1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstructorInjection1/src/com/constructor/injection/app/UseStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstructorInjection2/ConstructorInjection2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstructorInjection2/ConstructorInjection2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstructorInjection2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstructorInjection3/ConstructorInjection3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstructorInjection3/ConstructorInjection3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstructorInjection3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstructorInjection4/ConstructorInjection4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstructorInjection4/ConstructorInjection4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstructorInjection4/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstructorInjection5/ConstructorInjection5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstructorInjection5/ConstructorInjection5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstructorInjection5/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstructorInjection6/ConstructorInjection6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstructorInjection6/ConstructorInjection6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstructorInjection6/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstructorInjection7/ConstructorInjection7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstructorInjection7/ConstructorInjection7.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2jZFEfsqDbN9CRUyf0jKdjd7ul5" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0d776ac-7471-47bd-b789-92a8de10d2f0" name="Changes" comment="" />
+      <created>1721586582708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721586582708</updated>
+    </task>
+    <servers />
+  </component>
+</project>
