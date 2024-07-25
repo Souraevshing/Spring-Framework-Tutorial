@@ -4,7 +4,7 @@
 - Let's observe the output first:
   `
 
-       instance of student created using int-str-constructor
+       instance of useStudent created using int-str-constructor
        Student name: Amit
        Student roll: 101
 `
@@ -14,7 +14,7 @@
 ## Syntax
 `
 
-    <bean class="com.constructor.injection.beans.Student" id="student">
+    <bean class="com.constructor.injection.beans.Student" id="useStudent">
         <constructor-arg  value="101" />
         <constructor-arg  value="Amit" />
     </bean>

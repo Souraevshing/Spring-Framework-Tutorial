@@ -7,7 +7,7 @@
 ## Syntax
 `
 
-    <bean class="com.constructor.injection.beans.Student" id="student">
+    <bean class="com.constructor.injection.beans.Student" id="useStudent">
         <constructor-arg value="101" />
         <constructor-arg value="Amit" />
     </bean>

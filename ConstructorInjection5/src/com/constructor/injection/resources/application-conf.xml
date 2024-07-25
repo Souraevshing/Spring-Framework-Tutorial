@@ -4,7 +4,7 @@
        xsi:schemaLocation="
         http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean class="com.constructor.injection.beans.Student" id="student">
+    <bean class="com.constructor.injection.beans.Student" id="useStudent">
         <constructor-arg type="int" value="101" />
         <constructor-arg type="String" value="Amit" />
     </bean>

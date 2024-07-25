@@ -21,3 +21,19 @@
   3. `Readability` is `better`, using `name` attribute in `XML` is `compulsory`.
   4. `Non-parameterized/default` constructor is `mandatory`.
   5. Supports `circular dependency`.
+
+## Conclusion
+
+### When to use `Constructor Injection`
+- They are most `useful` when we need an `object along with all its dependencies`.
+- For example – CAR can have various dependencies like engine, gear, steering and other relevant components without which a CAR is Use-Less.
+- So, we need all those `components wired together` in the object of a car.
+
+
+---
+
+
+### When to use `Setter Injection`
+- They are `preferred` when we have some `optional dependencies` that are `not mandatory` required but can assist in some ways.
+- For example, when we `register ourselves` on some `online platform` then we have to provide some `compulsory information` like `name,email,phone number,` but we also have the `freedom` to `set/leave` our `profile picture, personal info` and other information.
+- It's completely `optional`.

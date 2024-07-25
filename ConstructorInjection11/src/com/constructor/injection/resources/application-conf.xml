@@ -6,10 +6,10 @@
 
     <bean class="com.constructor.injection.beans.Teacher" id="teacher">
         <property name="name" value="Mr.Kumar"/>
-        <property name="student" ref="student"/>
+        <property name="useStudent" ref="useStudent"/>
     </bean>
 
-    <bean class="com.constructor.injection.beans.Student" id="student">
+    <bean class="com.constructor.injection.beans.Student" id="useStudent">
         <property name="name" value="Naveen"/>
         <property name="teacher" ref="teacher"/>
     </bean>

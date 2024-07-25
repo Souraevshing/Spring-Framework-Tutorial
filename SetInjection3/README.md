@@ -9,7 +9,7 @@
 
 `
 
-    <bean class="com.set.injection.beans.Student" id="student">
+    <bean class="com.set.injection.beans.Student" id="useStudent">
         <property name="rollno" value="101"/>
         <property name="name" value="Amit"/>
         <property name="emails">
