@@ -2,11 +2,23 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnnotationAutowiringExample1/AnnotationAutowiringExample1.iml" filepath="$PROJECT_DIR$/AnnotationAutowiringExample1/AnnotationAutowiringExample1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayInjection1/ArrayInjection1.iml" filepath="$PROJECT_DIR$/ArrayInjection1/ArrayInjection1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayInjection2/ArrayInjection2.iml" filepath="$PROJECT_DIR$/ArrayInjection2/ArrayInjection2.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayInjection3/ArrayInjection3.iml" filepath="$PROJECT_DIR$/ArrayInjection3/ArrayInjection3.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayInjection4/ArrayInjection4.iml" filepath="$PROJECT_DIR$/ArrayInjection4/ArrayInjection4.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayInjection5/ArrayInjection5.iml" filepath="$PROJECT_DIR$/ArrayInjection5/ArrayInjection5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutowiringExample1/AutowiringExample1.iml" filepath="$PROJECT_DIR$/AutowiringExample1/AutowiringExample1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutowiringExample10/AutowiringExample10.iml" filepath="$PROJECT_DIR$/AutowiringExample10/AutowiringExample10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutowiringExample11/AutowiringExample11.iml" filepath="$PROJECT_DIR$/AutowiringExample11/AutowiringExample11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutowiringExample2/AutowiringExample2.iml" filepath="$PROJECT_DIR$/AutowiringExample2/AutowiringExample2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutowiringExample3/AutowiringExample3.iml" filepath="$PROJECT_DIR$/AutowiringExample3/AutowiringExample3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutowiringExample4/AutowiringExample4.iml" filepath="$PROJECT_DIR$/AutowiringExample4/AutowiringExample4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutowiringExample5/AutowiringExample5.iml" filepath="$PROJECT_DIR$/AutowiringExample5/AutowiringExample5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutowiringExample6/AutowiringExample6.iml" filepath="$PROJECT_DIR$/AutowiringExample6/AutowiringExample6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutowiringExample7/AutowiringExample7.iml" filepath="$PROJECT_DIR$/AutowiringExample7/AutowiringExample7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutowiringExample8/AutowiringExample8.iml" filepath="$PROJECT_DIR$/AutowiringExample8/AutowiringExample8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutowiringExample9/AutowiringExample9.iml" filepath="$PROJECT_DIR$/AutowiringExample9/AutowiringExample9.iml" />
       <module fileurl="file://$PROJECT_DIR$/BeanScopeExample1/BeanScopeExample1.iml" filepath="$PROJECT_DIR$/BeanScopeExample1/BeanScopeExample1.iml" />
       <module fileurl="file://$PROJECT_DIR$/BeanScopeExample2/BeanScopeExample2.iml" filepath="$PROJECT_DIR$/BeanScopeExample2/BeanScopeExample2.iml" />
       <module fileurl="file://$PROJECT_DIR$/BeanScopeExample3/BeanScopeExample3.iml" filepath="$PROJECT_DIR$/BeanScopeExample3/BeanScopeExample3.iml" />

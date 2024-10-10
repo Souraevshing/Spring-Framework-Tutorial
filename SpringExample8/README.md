@@ -18,20 +18,20 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="
 http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean class="com.spring.demo.beans.Customer" id="customer1">
+    <bean class="com.spring.demo.beans.com.autowire.demo.Customer" id="customer1">
         <property name="name" value="Sourav"/>
             <property name="account">
-                <bean class="com.spring.demo.beans.Account" id="account1">
+                <bean class="com.spring.demo.beans.com.autowire.demo.Account" id="account1">
                     <property name="accountId" value="SAVINGS-ACC-101" />
                     <property name="balance" value="400000" />
                 </bean>
             </property>
     </bean>
 
-    <bean class="com.spring.demo.beans.Customer" id="customer2">
+    <bean class="com.spring.demo.beans.com.autowire.demo.Customer" id="customer2">
         <property name="name" value="Codey"/>
         <property name="account">
-            <bean class="com.spring.demo.beans.Account" id="account2">
+            <bean class="com.spring.demo.beans.com.autowire.demo.Account" id="account2">
                 <property name="accountId" value="SAVINGS-ACC-102" />
                 <property name="balance" value="500000" />
             </bean>
