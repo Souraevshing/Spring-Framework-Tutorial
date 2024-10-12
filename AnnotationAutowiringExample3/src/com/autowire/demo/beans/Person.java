@@ -1,25 +1,23 @@
 package com.autowire.demo.beans;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
 @Component
 public class Person {
 
     private String name = "Sourav";
+    private Car car;
 
     @Autowired
-    @Qualifier("car1")
-    private Car car;
+    public Person(Car car) {
+        this.car = car;
+        System.out.println("Person cons called");
+    }
 
     public void display() {
         System.out.printf("Name: %s\n", name);
-        if (car==null) {
-            System.out.println("No car\n");
-        } else {
-            System.out.printf("Person car: %s\n", car.getCarName());
-        }
+        System.out.printf("Person car is: %s\n", car.getCarName());
     }
 
 }
